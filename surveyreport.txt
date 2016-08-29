@@ -1,0 +1,136 @@
+Surveys System 3000
+Survey Details
+PPSN: 456
+Gender: m
+Name: Mark Grimes
+Address: Coolroe
+E-mail: mgrimes@address.com
+Age Bracket: 65+
+Income: More Than 100'000
+Exercise: Less Than 5 Times a Week
+Cigarettes: Non-Smoker
+Alcohol: Non Drinker
+===============================================
+PPSN: 666
+Gender: f
+Name: Jane Doe
+Address: Cool-land
+E-mail: asdf@thing.com
+Age Bracket: 18-20
+Income: Less Than 20'000
+Exercise: Less Than 5 Times a Week
+Cigarettes: Non-Smoker
+Alcohol: Non Drinker
+===============================================
+PPSN: 5555
+Gender: m
+Name: John Dory
+Address: asdf
+E-mail: this@thing.com
+Age Bracket: 65+
+Income: More Than 100'000
+Exercise: More Than 5 Times a Week
+Cigarettes: More Than 40 a Week
+Alcohol: More Than 4 Units a Week
+===============================================
+PPSN: 77799
+Gender: f
+Name: Lara Croft
+Address: London
+E-mail: square@enix.com
+Age Bracket: 31-50
+Income: Less Than 40'000
+Exercise: More Than 5 Times a Week
+Cigarettes: Non-Smoker
+Alcohol: Less Than 2 Units a Week
+===============================================
+Survey Participants: 4
+===============================================
+
+% Gender Statistics
+
+Smoking Statistics
+==============================================
+
+    Gender   Smoker      <20      <40      >40
+    Male |    50.0%     0.0%     0.0%    50.0%
+  Female |     0.0%     0.0%     0.0%     0.0%
+
+Alcohol Statistics
+
+    Gender     None       <2       <4       >4
+==============================================
+    Male |    50.0%     0.0%     0.0%    50.0%
+  Female |    50.0%    50.0%     0.0%     0.0%
+
+Exercise Statistics per Week
+
+    Gender     None       <3       <5       >5
+==============================================
+    Male |     0.0%     0.0%    50.0%    50.0%
+  Female |     0.0%     0.0%    50.0%    50.0%
+
+% Age Bracket Statistics
+
+Smoking Statistics
+
+       Age   Smoker      <20      <40      >40
+==============================================
+   18-20 |     0.0%     0.0%     0.0%     0.0%
+   21-30 |     0.0%     0.0%     0.0%     0.0%
+   31-50 |     0.0%     0.0%     0.0%     0.0%
+   51-64 |     0.0%     0.0%     0.0%     0.0%
+     65+ |    50.0%     0.0%     0.0%    50.0%
+
+Alcohol Statistics
+
+       Age     None       <2       <4       >4
+==============================================
+   18-20 |   100.0%     0.0%     0.0%     0.0%
+   21-30 |     0.0%     0.0%     0.0%     0.0%
+   31-50 |     0.0%   100.0%     0.0%     0.0%
+   51-64 |     0.0%     0.0%     0.0%     0.0%
+     65+ |    50.0%     0.0%     0.0%    50.0%
+
+Exercise Statistics per Week
+
+       Age     None       <3       <5       >5
+==============================================
+   18-20 |     0.0%     0.0%   100.0%     0.0%
+   21-30 |     0.0%     0.0%     0.0%     0.0%
+   31-50 |     0.0%     0.0%     0.0%   100.0%
+   51-64 |     0.0%     0.0%     0.0%     0.0%
+     65+ |     0.0%     0.0%    50.0%    50.0%
+
+% Income Bracket Statistics
+
+Smoking Statistics
+
+     Income   Smoker      <20      <40      >40
+===============================================
+        0 |     0.0%     0.0%     0.0%     0.0%
+<   20000 |     0.0%     0.0%     0.0%     0.0%
+<   40000 |     0.0%     0.0%     0.0%     0.0%
+<   60000 |     0.0%     0.0%     0.0%     0.0%
+<   80000 |     0.0%     0.0%     0.0%     0.0%
+<  100000 |     0.0%     0.0%     0.0%     0.0%
+>  100000 |    50.0%     0.0%     0.0%    50.0%
+
+Alcohol Statistics
+
+     Income     None       <2       <4       >4
+===============================================
+        0 |     0.0%     0.0%     0.0%     0.0%
+<   20000 |   100.0%     0.0%     0.0%     0.0%
+
+Exercise Statistics per Week
+
+     Income     None       <3       <5       >5
+===============================================
+        0 |     0.0%     0.0%     0.0%     0.0%
+<   20000 |     0.0%     0.0%   100.0%     0.0%
+<   40000 |     0.0%     0.0%     0.0%   100.0%
+<   60000 |     0.0%     0.0%     0.0%     0.0%
+<   80000 |     0.0%     0.0%     0.0%     0.0%
+<  100000 |     0.0%     0.0%     0.0%     0.0%
+>  100000 |     0.0%     0.0%    50.0%    50.0%
